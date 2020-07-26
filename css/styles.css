@@ -64,6 +64,12 @@ a:hover{
   text-align: left;
 }
 
+.contact-me{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
 .code-img{
   width: 25%;
   float: left;
